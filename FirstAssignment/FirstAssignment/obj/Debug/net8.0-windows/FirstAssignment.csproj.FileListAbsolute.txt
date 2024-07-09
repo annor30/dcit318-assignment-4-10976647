@@ -1,0 +1,16 @@
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\bin\Debug\net8.0-windows\FirstAssignment.exe
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\bin\Debug\net8.0-windows\FirstAssignment.deps.json
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\bin\Debug\net8.0-windows\FirstAssignment.runtimeconfig.json
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\bin\Debug\net8.0-windows\FirstAssignment.dll
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\bin\Debug\net8.0-windows\FirstAssignment.pdb
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.Form1.resources
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.csproj.GenerateResource.cache
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.AssemblyInfoInputs.cache
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.AssemblyInfo.cs
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.dll
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\refint\FirstAssignment.dll
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.pdb
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\FirstAssignment.genruntimeconfig.cache
+C:\Users\ramso\source\repos\FirstAssignment\FirstAssignment\obj\Debug\net8.0-windows\ref\FirstAssignment.dll
